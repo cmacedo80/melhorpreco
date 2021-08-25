@@ -1,0 +1,7 @@
+{
+  "name": "melhorpreco",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
